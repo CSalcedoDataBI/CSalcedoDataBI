@@ -1818,7 +1818,7 @@
     },
     {
       "date": "2026-08-25",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 3,
@@ -1878,7 +1878,7 @@
     },
     {
       "date": "2026-08-26",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -1938,7 +1938,7 @@
     },
     {
       "date": "2026-08-27",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 10,
       "views_uniques": 2,
       "clones_count": 6,
@@ -2010,7 +2010,7 @@
     },
     {
       "date": "2026-08-28",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 11,
       "views_uniques": 3,
       "clones_count": 4,
@@ -2082,7 +2082,7 @@
     },
     {
       "date": "2026-08-29",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 11,
@@ -2167,7 +2167,7 @@
     },
     {
       "date": "2026-08-30",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2252,7 +2252,7 @@
     },
     {
       "date": "2026-08-31",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 3,
       "views_uniques": 1,
       "clones_count": 3,
@@ -2337,7 +2337,7 @@
     },
     {
       "date": "2026-09-01",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 1,
@@ -2422,7 +2422,7 @@
     },
     {
       "date": "2026-09-02",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2512,7 +2512,7 @@
     },
     {
       "date": "2026-09-03",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -2602,7 +2602,7 @@
     },
     {
       "date": "2026-09-04",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 5,
       "views_uniques": 2,
       "clones_count": 1,
@@ -2697,7 +2697,7 @@
     },
     {
       "date": "2026-09-05",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -2792,14 +2792,14 @@
     },
     {
       "date": "2026-09-06",
-      "captured_at": "2026-09-07T06:13:57.326835+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 14,
+      "clones_uniques": 9,
       "actions_runs": 0,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 14,
+      "human_clones_uniques": 9,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -2887,14 +2887,14 @@
     },
     {
       "date": "2026-09-07",
-      "captured_at": "2026-09-08T06:03:43.081436+00:00",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 8,
+      "clones_uniques": 5,
       "actions_runs": 0,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 8,
+      "human_clones_uniques": 5,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -2975,6 +2975,101 @@
         {
           "path": "/CSalcedoDataBI/fabric-data-agents/projects",
           "title": "/projects",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "captured_at": "2026-09-09T06:08:02.364927+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 22,
+          "uniques": 4
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "copilot.microsoft.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "linkedin.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents",
+          "title": "Overview",
+          "count": 15,
+          "uniques": 7
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/tree/main/examples/contoso-retail",
+          "title": "/tree/main/examples/contoso-retail",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/blob/main/examples/contoso-retail/data-agent/verified-answers.md",
+          "title": "/blob/main/examples/contoso-retail/data-agent/verified-answers.md",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/blob/main/docs/tooling.md",
+          "title": "/blob/main/docs/tooling.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/blob/main/examples/contoso-retail",
+          "title": "/blob/main/examples/contoso-retail",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/blob/main/examples/contoso-retail/model/ContosoRetail.pbip",
+          "title": "/blob/main/examples/contoso-retail/model/ContosoRetail.pbip",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/blob/main/examples/contoso-retail/model/ContosoRetail.pbix",
+          "title": "/blob/main/examples/contoso-retail/model/ContosoRetail.pbix",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/projects",
+          "title": "/projects",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/fabric-data-agents/tree/main/examples",
+          "title": "/tree/main/examples",
           "count": 1,
           "uniques": 1
         }
