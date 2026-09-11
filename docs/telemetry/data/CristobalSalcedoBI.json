@@ -1959,7 +1959,7 @@
     },
     {
       "date": "2026-08-27",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -2008,7 +2008,7 @@
     },
     {
       "date": "2026-08-28",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 9,
       "views_uniques": 1,
       "clones_count": 13,
@@ -2057,7 +2057,7 @@
     },
     {
       "date": "2026-08-29",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -2106,7 +2106,7 @@
     },
     {
       "date": "2026-08-30",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 4,
@@ -2180,7 +2180,7 @@
     },
     {
       "date": "2026-08-31",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 14,
@@ -2254,7 +2254,7 @@
     },
     {
       "date": "2026-09-01",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 10,
@@ -2328,7 +2328,7 @@
     },
     {
       "date": "2026-09-02",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 11,
@@ -2402,7 +2402,7 @@
     },
     {
       "date": "2026-09-03",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 4,
       "views_uniques": 2,
       "clones_count": 7,
@@ -2482,7 +2482,7 @@
     },
     {
       "date": "2026-09-04",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 15,
@@ -2562,7 +2562,7 @@
     },
     {
       "date": "2026-09-05",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 10,
@@ -2642,7 +2642,7 @@
     },
     {
       "date": "2026-09-06",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 15,
@@ -2722,7 +2722,7 @@
     },
     {
       "date": "2026-09-07",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 13,
@@ -2802,7 +2802,7 @@
     },
     {
       "date": "2026-09-08",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 17,
@@ -2882,7 +2882,7 @@
     },
     {
       "date": "2026-09-09",
-      "captured_at": "2026-09-10T06:08:07.190595+00:00",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
       "views_count": 8,
       "views_uniques": 8,
       "clones_count": 22,
@@ -2890,6 +2890,86 @@
       "actions_runs": 2,
       "human_clones_count": 20,
       "human_clones_uniques": 11,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 14,
+          "uniques": 4
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI",
+          "title": "Overview",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/blob/308751d1465810a55812afb49b4b8b514d7a57c3/.github/workflows/ci.yml",
+          "title": "/blob/308751d1465810a55812afb49b4b8b514d7a57c3/.github/workflows/ci.yml",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/blob/39c59af329afcdc20f2dbc9f11894047a3c0d800/.github/workflows/ci.yml",
+          "title": "/blob/39c59af329afcdc20f2dbc9f11894047a3c0d800/.github/workflows/ci.yml",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/blob/50c24fef081661ebbf0b5dc83d1b24bcdcfcdd84/.github/workflows/ci.yml",
+          "title": "/blob/50c24fef081661ebbf0b5dc83d1b24bcdcfcdd84/.github/workflows/ci.yml",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/blob/6a73c983b34151cbe7fd9ac35d20436270345d45/.github/workflows/ci.yml",
+          "title": "/blob/6a73c983b34151cbe7fd9ac35d20436270345d45/.github/workflows/ci.yml",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/tree/main",
+          "title": "/tree/main",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/blob/main/docs/telemetry/data/BI_Challenges.json",
+          "title": "/blob/main/docs/telemetry/data/BI_Challenges.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/pulls",
+          "title": "/pulls",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/tree/main/docs",
+          "title": "/tree/main/docs",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "captured_at": "2026-09-11T06:10:26.491135+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 2,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
       "top_referrers": [
         {
           "referrer": "github.com",
