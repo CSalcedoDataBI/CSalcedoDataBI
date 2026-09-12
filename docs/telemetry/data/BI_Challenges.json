@@ -2111,7 +2111,7 @@
     },
     {
       "date": "2026-08-28",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -2137,7 +2137,7 @@
     },
     {
       "date": "2026-08-29",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2157,7 +2157,7 @@
     },
     {
       "date": "2026-08-30",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2170,7 +2170,7 @@
     },
     {
       "date": "2026-08-31",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -2190,7 +2190,7 @@
     },
     {
       "date": "2026-09-01",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -2210,7 +2210,7 @@
     },
     {
       "date": "2026-09-02",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -2236,7 +2236,7 @@
     },
     {
       "date": "2026-09-03",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 5,
       "views_uniques": 1,
       "clones_count": 2,
@@ -2262,7 +2262,7 @@
     },
     {
       "date": "2026-09-04",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 1,
@@ -2312,7 +2312,7 @@
     },
     {
       "date": "2026-09-05",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 1,
@@ -2362,7 +2362,7 @@
     },
     {
       "date": "2026-09-06",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 9,
@@ -2412,7 +2412,7 @@
     },
     {
       "date": "2026-09-07",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 2,
@@ -2462,7 +2462,7 @@
     },
     {
       "date": "2026-09-08",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2512,7 +2512,7 @@
     },
     {
       "date": "2026-09-09",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 1,
@@ -2562,9 +2562,59 @@
     },
     {
       "date": "2026-09-10",
-      "captured_at": "2026-09-11T06:10:19.303184+00:00",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
       "views_count": 1,
       "views_uniques": 1,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/BI_Challenges",
+          "title": "Overview",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/CSalcedoDataBI/BI_Challenges/pulls",
+          "title": "/pulls",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/BI_Challenges/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/BI_Challenges/tree/main/EXCEL_BI",
+          "title": "/tree/main/EXCEL_BI",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/BI_Challenges/tree/main/OMID_BI",
+          "title": "/tree/main/OMID_BI",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "captured_at": "2026-09-12T05:57:47.666214+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
       "clones_count": 0,
       "clones_uniques": 0,
       "actions_runs": 0,
