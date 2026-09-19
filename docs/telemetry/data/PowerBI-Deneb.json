@@ -3803,7 +3803,7 @@
     },
     {
       "date": "2026-09-04",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 11,
       "views_uniques": 5,
       "clones_count": 22,
@@ -3903,7 +3903,7 @@
     },
     {
       "date": "2026-09-05",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 10,
       "views_uniques": 4,
       "clones_count": 8,
@@ -4003,7 +4003,7 @@
     },
     {
       "date": "2026-09-06",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 5,
       "views_uniques": 2,
       "clones_count": 21,
@@ -4108,7 +4108,7 @@
     },
     {
       "date": "2026-09-07",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 3,
@@ -4213,7 +4213,7 @@
     },
     {
       "date": "2026-09-08",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 4,
       "views_uniques": 4,
       "clones_count": 3,
@@ -4328,7 +4328,7 @@
     },
     {
       "date": "2026-09-09",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 20,
       "views_uniques": 2,
       "clones_count": 1,
@@ -4438,7 +4438,7 @@
     },
     {
       "date": "2026-09-10",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 38,
       "views_uniques": 3,
       "clones_count": 2,
@@ -4548,7 +4548,7 @@
     },
     {
       "date": "2026-09-11",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 43,
       "views_uniques": 6,
       "clones_count": 6,
@@ -4658,7 +4658,7 @@
     },
     {
       "date": "2026-09-12",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -4768,7 +4768,7 @@
     },
     {
       "date": "2026-09-13",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 8,
       "views_uniques": 2,
       "clones_count": 0,
@@ -4878,7 +4878,7 @@
     },
     {
       "date": "2026-09-14",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 5,
@@ -4988,7 +4988,7 @@
     },
     {
       "date": "2026-09-15",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 23,
       "views_uniques": 4,
       "clones_count": 3,
@@ -5098,7 +5098,7 @@
     },
     {
       "date": "2026-09-16",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
       "views_count": 4,
       "views_uniques": 4,
       "clones_count": 7,
@@ -5208,14 +5208,14 @@
     },
     {
       "date": "2026-09-17",
-      "captured_at": "2026-09-18T06:04:30.007954+00:00",
-      "views_count": 0,
-      "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
+      "views_count": 13,
+      "views_uniques": 7,
+      "clones_count": 4,
+      "clones_uniques": 4,
       "actions_runs": 0,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 4,
+      "human_clones_uniques": 4,
       "top_referrers": [
         {
           "referrer": "Google",
@@ -5313,6 +5313,121 @@
           "title": "/blob/main/Dispersion_Etiquetados/Files/Dispersion_Etiquetada.gif",
           "count": 3,
           "uniques": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "captured_at": "2026-09-19T06:03:43.452724+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [
+        {
+          "referrer": "Google",
+          "count": 57,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 30,
+          "uniques": 8
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 14,
+          "uniques": 11
+        },
+        {
+          "referrer": "Bing",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "referrer": "linkedin.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "com.linkedin.android",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "csalcedodatabi.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "chatgpt.genai.mil",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb",
+          "title": "Overview",
+          "count": 42,
+          "uniques": 35
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Campos_De_Apoyo_Format_Y_Formatted",
+          "title": "/tree/main/Campos_De_Apoyo_Format_Y_Formatted",
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Aggregate_Bar_Chart_With_Cross_Filtering",
+          "title": "/tree/main/Aggregate_Bar_Chart_With_Cross_Filtering",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Barras_Eje_Dinamico",
+          "title": "/tree/main/Barras_Eje_Dinamico",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Combo_Barras_Linea",
+          "title": "/tree/main/Combo_Barras_Linea",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main",
+          "title": "/tree/main",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Tarjetas_Bullet_IBCS",
+          "title": "/tree/main/Tarjetas_Bullet_IBCS",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Tarjetas_Dinamicas",
+          "title": "/tree/main/Tarjetas_Dinamicas",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Calendar_Heatmap",
+          "title": "/tree/main/Calendar_Heatmap",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/PowerBI-Deneb/tree/main/Dispersion_Etiquetados",
+          "title": "/tree/main/Dispersion_Etiquetados",
+          "count": 3,
+          "uniques": 3
         }
       ]
     }
