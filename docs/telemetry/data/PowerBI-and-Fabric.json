@@ -810,7 +810,7 @@
     },
     {
       "date": "2026-09-10",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -836,7 +836,7 @@
     },
     {
       "date": "2026-09-11",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -862,7 +862,7 @@
     },
     {
       "date": "2026-09-12",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -888,7 +888,7 @@
     },
     {
       "date": "2026-09-13",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -914,7 +914,7 @@
     },
     {
       "date": "2026-09-14",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -940,7 +940,7 @@
     },
     {
       "date": "2026-09-15",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-09-16",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -992,7 +992,7 @@
     },
     {
       "date": "2026-09-17",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -1018,7 +1018,7 @@
     },
     {
       "date": "2026-09-18",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1031,7 +1031,7 @@
     },
     {
       "date": "2026-09-19",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1044,7 +1044,7 @@
     },
     {
       "date": "2026-09-20",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1057,7 +1057,7 @@
     },
     {
       "date": "2026-09-21",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1070,7 +1070,7 @@
     },
     {
       "date": "2026-09-22",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -1083,7 +1083,20 @@
     },
     {
       "date": "2026-09-23",
-      "captured_at": "2026-09-24T06:17:44.760578+00:00",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [],
+      "top_paths": []
+    },
+    {
+      "date": "2026-09-24",
+      "captured_at": "2026-09-25T06:13:52.156747+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
