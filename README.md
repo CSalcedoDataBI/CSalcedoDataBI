@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**33** artículos publicados · **33** plantillas Deneb · **12** repos públicos · **566** commits en 12 meses
+**33** artículos publicados · **33** plantillas Deneb · **12** repos públicos · **578** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -97,8 +97,8 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
-- [agentic-board v0.39.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.39.0) — 19 sep 2026
-- [agentic-board v0.38.4](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.38.4) — 18 sep 2026
+- [agentic-board v0.41.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.41.0) — 23 sep 2026
+- [agentic-board v0.40.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.40.0) — 21 sep 2026
 - [dax-for-agents v0.6.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.6.0) — 29 ago 2026
 - [dax-for-agents v0.5.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.5.0) — 27 ago 2026
 <!-- releases:end -->
