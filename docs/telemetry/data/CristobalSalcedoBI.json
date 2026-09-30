@@ -3442,7 +3442,7 @@
     },
     {
       "date": "2026-09-16",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 13,
@@ -3522,7 +3522,7 @@
     },
     {
       "date": "2026-09-17",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 16,
@@ -3602,7 +3602,7 @@
     },
     {
       "date": "2026-09-18",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -3682,7 +3682,7 @@
     },
     {
       "date": "2026-09-19",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 24,
@@ -3762,7 +3762,7 @@
     },
     {
       "date": "2026-09-20",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 12,
@@ -3842,7 +3842,7 @@
     },
     {
       "date": "2026-09-21",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 12,
@@ -3922,7 +3922,7 @@
     },
     {
       "date": "2026-09-22",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4002,7 +4002,7 @@
     },
     {
       "date": "2026-09-23",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4082,14 +4082,14 @@
     },
     {
       "date": "2026-09-24",
-      "captured_at": "2026-09-25T06:13:55.881794+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 12,
+      "clones_uniques": 6,
       "actions_runs": 2,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 10,
+      "human_clones_uniques": 6,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -4138,14 +4138,14 @@
     },
     {
       "date": "2026-09-25",
-      "captured_at": "2026-09-26T06:13:30.537670+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 21,
+      "clones_uniques": 12,
       "actions_runs": 2,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 19,
+      "human_clones_uniques": 12,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -4194,14 +4194,14 @@
     },
     {
       "date": "2026-09-26",
-      "captured_at": "2026-09-27T06:41:06.070752+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 20,
+      "clones_uniques": 12,
       "actions_runs": 2,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 18,
+      "human_clones_uniques": 12,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -4250,14 +4250,14 @@
     },
     {
       "date": "2026-09-27",
-      "captured_at": "2026-09-28T07:06:19.725894+00:00",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 24,
+      "clones_uniques": 15,
       "actions_runs": 2,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 22,
+      "human_clones_uniques": 15,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -4306,14 +4306,14 @@
     },
     {
       "date": "2026-09-28",
-      "captured_at": "2026-09-29T07:04:05.494762+00:00",
-      "views_count": 0,
-      "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
+      "views_count": 2,
+      "views_uniques": 1,
+      "clones_count": 12,
+      "clones_uniques": 5,
       "actions_runs": 4,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 8,
+      "human_clones_uniques": 5,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -4355,6 +4355,50 @@
         {
           "path": "/CSalcedoDataBI/CSalcedoDataBI/tree/main/docs/telemetry/data",
           "title": "/tree/main/docs/telemetry/data",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "captured_at": "2026-09-30T06:54:07.856723+00:00",
+      "views_count": 2,
+      "views_uniques": 2,
+      "clones_count": 7,
+      "clones_uniques": 4,
+      "actions_runs": 2,
+      "human_clones_count": 5,
+      "human_clones_uniques": 4,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI",
+          "title": "Overview",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/pulls",
+          "title": "/pulls",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/releases",
+          "title": "/releases",
           "count": 1,
           "uniques": 1
         }
