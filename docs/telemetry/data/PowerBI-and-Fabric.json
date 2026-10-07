@@ -1070,7 +1070,7 @@
     },
     {
       "date": "2026-09-22",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -1083,7 +1083,7 @@
     },
     {
       "date": "2026-09-23",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1096,7 +1096,7 @@
     },
     {
       "date": "2026-09-24",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1109,7 +1109,7 @@
     },
     {
       "date": "2026-09-25",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 2,
@@ -1122,7 +1122,7 @@
     },
     {
       "date": "2026-09-26",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1135,7 +1135,7 @@
     },
     {
       "date": "2026-09-27",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-09-28",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-09-29",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1181,7 +1181,7 @@
     },
     {
       "date": "2026-09-30",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1221,7 +1221,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1241,7 +1241,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1261,7 +1261,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -1281,7 +1281,27 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-06T07:40:57.568970+00:00",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 1,
+      "clones_uniques": 1,
+      "actions_runs": 0,
+      "human_clones_count": 1,
+      "human_clones_uniques": 1,
+      "top_referrers": [],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/PowerBI-and-Fabric/blob/main/BulletChart.csv",
+          "title": "/blob/main/BulletChart.csv",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "captured_at": "2026-10-07T07:21:26.913504+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
