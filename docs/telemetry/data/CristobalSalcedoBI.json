@@ -4138,7 +4138,7 @@
     },
     {
       "date": "2026-09-25",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 21,
@@ -4194,7 +4194,7 @@
     },
     {
       "date": "2026-09-26",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 20,
@@ -4250,7 +4250,7 @@
     },
     {
       "date": "2026-09-27",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 24,
@@ -4306,7 +4306,7 @@
     },
     {
       "date": "2026-09-28",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 2,
       "views_uniques": 1,
       "clones_count": 12,
@@ -4362,7 +4362,7 @@
     },
     {
       "date": "2026-09-29",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 7,
@@ -4406,7 +4406,7 @@
     },
     {
       "date": "2026-09-30",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -4450,7 +4450,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4494,7 +4494,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 13,
@@ -4532,7 +4532,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 8,
@@ -4570,7 +4570,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 26,
@@ -4608,7 +4608,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 36,
@@ -4646,7 +4646,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -4684,7 +4684,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 15,
@@ -4722,7 +4722,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-09T07:32:20.493249+00:00",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4730,6 +4730,44 @@
       "actions_runs": 2,
       "human_clones_count": 4,
       "human_clones_uniques": 3,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI",
+          "title": "Overview",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI/pulls",
+          "title": "/pulls",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "captured_at": "2026-10-10T07:19:46.227196+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 2,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
       "top_referrers": [
         {
           "referrer": "github.com",

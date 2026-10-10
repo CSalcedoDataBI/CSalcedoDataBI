@@ -2739,7 +2739,7 @@
     },
     {
       "date": "2026-09-26",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -2812,7 +2812,7 @@
     },
     {
       "date": "2026-09-27",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2885,7 +2885,7 @@
     },
     {
       "date": "2026-09-28",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -2958,7 +2958,7 @@
     },
     {
       "date": "2026-09-29",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2971,7 +2971,7 @@
     },
     {
       "date": "2026-09-30",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2984,7 +2984,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -2997,7 +2997,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 6,
       "views_uniques": 1,
       "clones_count": 268,
@@ -3010,7 +3010,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 61,
@@ -3060,7 +3060,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 4,
@@ -3110,7 +3110,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 2,
       "views_uniques": 1,
       "clones_count": 48,
@@ -3160,7 +3160,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 125,
@@ -3210,7 +3210,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 33,
@@ -3260,7 +3260,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-09T07:32:15.725426+00:00",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 16,
@@ -3268,6 +3268,68 @@
       "actions_runs": 0,
       "human_clones_count": 16,
       "human_clones_uniques": 8,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/ubl-star",
+          "title": "Overview",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/discussions/landing",
+          "title": "/discussions/landing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/discussions/new",
+          "title": "/discussions/new",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/issues/11",
+          "title": "/issues/11",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/issues/13",
+          "title": "/issues/13",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/issues/35",
+          "title": "/issues/35",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/projects",
+          "title": "/projects",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "captured_at": "2026-10-10T07:19:42.565024+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 4,
+      "clones_uniques": 2,
+      "actions_runs": 0,
+      "human_clones_count": 4,
+      "human_clones_uniques": 2,
       "top_referrers": [
         {
           "referrer": "github.com",
