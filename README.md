@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**33** artículos publicados · **33** plantillas Deneb · **13** repos públicos · **685** commits en 12 meses
+**37** artículos publicados · **33** plantillas Deneb · **13** repos públicos · **713** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -73,11 +73,11 @@ Las 25 plantillas, con su spec listo para copiar, en
 ### En el blog
 
 <!-- blog:start -->
+- [Formato de fechas en Power BI: grupos de cálculo y Deneb](https://csalcedodatabi.com/blog/formato-fechas-grupos-calculo-deneb/) — 23 sep 2026
+- [Heredar el formato de la medida en Power BI con Deneb](https://csalcedodatabi.com/blog/heredar-formato-medida-deneb/) — 22 sep 2026
+- [Formato de valores en Power BI con Deneb](https://csalcedodatabi.com/blog/formato-valores-power-bi-deneb/) — 7 sep 2026
+- [Deneb para Power BI: guía completa en español](https://csalcedodatabi.com/blog/deneb-power-bi-guia-completa/) — 7 sep 2026
 - [Grupos de cálculo en Power BI: su formato en Deneb](https://csalcedodatabi.com/blog/grupos-calculo-formato-deneb/) — 6 sep 2026
-- [Formato dinámico con SWITCH en Power BI y Deneb](https://csalcedodatabi.com/blog/formato-dinamico-switch-deneb/) — 5 sep 2026
-- [Formato de medidas en Power BI: __format en Deneb](https://csalcedodatabi.com/blog/formato-medidas-format-deneb/) — 5 sep 2026
-- [dax-for-agents: DAX para que tu agente deje de inventar](https://csalcedodatabi.com/blog/dax-for-agents/) — 26 ago 2026
-- [¿Prep-for-AI cambia las respuestas de un Fabric Data Agent?](https://csalcedodatabi.com/blog/fabric-data-agent-prep-for-ai-prueba/) — 23 jul 2026
 <!-- blog:end -->
 
 Todo en [csalcedodatabi.com/blog](https://csalcedodatabi.com/blog)
@@ -97,10 +97,11 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
-- [dax-for-agents v0.7.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.7.0) — 2 oct 2026
+- [powerquery-m-for-agents v0.1.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.1.0) — 6 oct 2026
+- [dax-for-agents v0.8.1](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.8.1) — 5 oct 2026
+- [dax-for-agents v0.8.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.8.0) — 5 oct 2026
 - [agentic-board v0.44.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.44.0) — 30 sep 2026
 - [agentic-board v0.43.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.43.0) — 29 sep 2026
-- [dax-for-agents v0.6.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.6.0) — 29 ago 2026
 <!-- releases:end -->
 
 ## Cómo se mantiene esto
