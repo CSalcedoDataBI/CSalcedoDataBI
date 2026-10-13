@@ -4362,7 +4362,7 @@
     },
     {
       "date": "2026-09-29",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 7,
@@ -4406,7 +4406,7 @@
     },
     {
       "date": "2026-09-30",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -4450,7 +4450,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4494,7 +4494,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 13,
@@ -4532,7 +4532,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 8,
@@ -4570,7 +4570,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 26,
@@ -4608,7 +4608,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 36,
@@ -4646,7 +4646,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -4684,7 +4684,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 15,
@@ -4722,7 +4722,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4760,7 +4760,7 @@
     },
     {
       "date": "2026-10-09",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -4798,7 +4798,7 @@
     },
     {
       "date": "2026-10-10",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 8,
@@ -4836,7 +4836,7 @@
     },
     {
       "date": "2026-10-11",
-      "captured_at": "2026-10-12T07:32:03.351300+00:00",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 17,
@@ -4869,6 +4869,32 @@
           "title": "/pulls",
           "count": 1,
           "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "captured_at": "2026-10-13T07:52:00.682934+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 22,
+      "clones_uniques": 10,
+      "actions_runs": 4,
+      "human_clones_count": 18,
+      "human_clones_uniques": 10,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI",
+          "title": "Overview",
+          "count": 3,
+          "uniques": 3
         }
       ]
     }
