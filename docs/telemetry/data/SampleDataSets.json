@@ -3332,7 +3332,7 @@
     },
     {
       "date": "2026-09-30",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3376,7 +3376,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -3414,7 +3414,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3452,7 +3452,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3490,7 +3490,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3528,7 +3528,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3566,7 +3566,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3604,7 +3604,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3642,7 +3642,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3680,7 +3680,7 @@
     },
     {
       "date": "2026-10-09",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3712,7 +3712,7 @@
     },
     {
       "date": "2026-10-10",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3732,7 +3732,7 @@
     },
     {
       "date": "2026-10-11",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3752,7 +3752,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -3772,12 +3772,38 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-14T06:17:47.800013+00:00",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
       "clones_uniques": 0,
       "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/SampleDataSets",
+          "title": "Overview",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/SampleDataSets/blob/main/data4KPI.csv",
+          "title": "/blob/main/data4KPI.csv",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "captured_at": "2026-10-15T05:59:42.165496+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 1,
       "human_clones_count": 0,
       "human_clones_uniques": 0,
       "top_referrers": [],
