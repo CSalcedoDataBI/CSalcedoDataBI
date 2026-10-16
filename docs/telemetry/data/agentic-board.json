@@ -4763,7 +4763,7 @@
     },
     {
       "date": "2026-10-01",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 36,
@@ -4843,7 +4843,7 @@
     },
     {
       "date": "2026-10-02",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 221,
@@ -4923,7 +4923,7 @@
     },
     {
       "date": "2026-10-03",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 154,
@@ -4985,7 +4985,7 @@
     },
     {
       "date": "2026-10-04",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 6,
       "views_uniques": 6,
       "clones_count": 46,
@@ -5065,7 +5065,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 7,
       "views_uniques": 6,
       "clones_count": 132,
@@ -5145,7 +5145,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 121,
@@ -5225,7 +5225,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -5305,7 +5305,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 4,
       "views_uniques": 4,
       "clones_count": 10,
@@ -5385,7 +5385,7 @@
     },
     {
       "date": "2026-10-09",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 4,
       "views_uniques": 4,
       "clones_count": 23,
@@ -5465,7 +5465,7 @@
     },
     {
       "date": "2026-10-10",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 14,
@@ -5545,7 +5545,7 @@
     },
     {
       "date": "2026-10-11",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 4,
@@ -5625,7 +5625,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 58,
@@ -5699,7 +5699,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 111,
@@ -5773,7 +5773,81 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-15T05:59:32.019154+00:00",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 129,
+      "clones_uniques": 7,
+      "actions_runs": 2,
+      "human_clones_count": 127,
+      "human_clones_uniques": 7,
+      "top_referrers": [],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/agentic-board",
+          "title": "Overview",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/main/plugins/agentic-board/commands/expert.md",
+          "title": "/blob/main/plugins/agentic-board/commands/expert.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/main/plugins/agentic-board/skills/projects-admin/references/handoff.md",
+          "title": "/blob/main/plugins/agentic-board/skills/projects-admin/references/handoff.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/main/plugins/agentic-board/skills/projects-admin/references/verbs-field.md",
+          "title": "/blob/main/plugins/agentic-board/skills/projects-admin/references/verbs-field.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/main/plugins/agentic-board/skills/projects-admin/references/verbs-plan.md",
+          "title": "/blob/main/plugins/agentic-board/skills/projects-admin/references/verbs-plan.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/release/plugins/agentic-board/commands/knowledge.md",
+          "title": "/blob/release/plugins/agentic-board/commands/knowledge.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/release/plugins/agentic-board/skills/projects-admin/references/handoff.md",
+          "title": "/blob/release/plugins/agentic-board/skills/projects-admin/references/handoff.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/release/plugins/agentic-board/skills/projects-admin/references/verbs-doctor.md",
+          "title": "/blob/release/plugins/agentic-board/skills/projects-admin/references/verbs-doctor.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/agentic-board/blob/release/plugins/agentic-board/skills/projects-admin/references/verbs-plan.md",
+          "title": "/blob/release/plugins/agentic-board/skills/projects-admin/references/verbs-plan.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csalcedodatabi/agentic-board/blob/release/plugins/agentic-board/commands/docs.md",
+          "title": "/blob/release/plugins/agentic-board/commands/docs.md",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "captured_at": "2026-10-16T05:58:18.764247+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -5786,8 +5860,8 @@
         {
           "path": "/CSalcedoDataBI/agentic-board",
           "title": "Overview",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/CSalcedoDataBI/agentic-board/blob/main/plugins/agentic-board/commands/expert.md",
