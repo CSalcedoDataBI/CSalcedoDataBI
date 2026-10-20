@@ -3110,7 +3110,7 @@
     },
     {
       "date": "2026-10-05",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 2,
       "views_uniques": 1,
       "clones_count": 48,
@@ -3160,7 +3160,7 @@
     },
     {
       "date": "2026-10-06",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 125,
@@ -3210,7 +3210,7 @@
     },
     {
       "date": "2026-10-07",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 33,
@@ -3260,7 +3260,7 @@
     },
     {
       "date": "2026-10-08",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 16,
@@ -3322,7 +3322,7 @@
     },
     {
       "date": "2026-10-09",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 4,
@@ -3384,7 +3384,7 @@
     },
     {
       "date": "2026-10-10",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 5,
@@ -3446,7 +3446,7 @@
     },
     {
       "date": "2026-10-11",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3508,7 +3508,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -3570,7 +3570,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3632,7 +3632,7 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 3,
@@ -3694,14 +3694,14 @@
     },
     {
       "date": "2026-10-15",
-      "captured_at": "2026-10-16T05:58:23.297389+00:00",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
       "views_count": 0,
       "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "clones_count": 5,
+      "clones_uniques": 2,
       "actions_runs": 0,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 5,
+      "human_clones_uniques": 2,
       "top_referrers": [
         {
           "referrer": "github.com",
@@ -3755,6 +3755,83 @@
         {
           "path": "/CSalcedoDataBI/ubl-star/projects",
           "title": "/projects",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 1,
+      "clones_uniques": 1,
+      "actions_runs": 0,
+      "human_clones_count": 1,
+      "human_clones_uniques": 1,
+      "top_referrers": [],
+      "top_paths": []
+    },
+    {
+      "date": "2026-10-17",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 1,
+      "clones_uniques": 1,
+      "actions_runs": 0,
+      "human_clones_count": 1,
+      "human_clones_uniques": 1,
+      "top_referrers": [],
+      "top_paths": []
+    },
+    {
+      "date": "2026-10-18",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
+      "views_count": 1,
+      "views_uniques": 1,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [],
+      "top_paths": []
+    },
+    {
+      "date": "2026-10-19",
+      "captured_at": "2026-10-20T06:10:28.975483+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/ubl-star/discussions",
+          "title": "/discussions",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/issues/13",
+          "title": "/issues/13",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/issues/35",
+          "title": "/issues/35",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csalcedodatabi/ubl-star/blob/main/skills/leer-facturas-ubl/SKILL.md",
+          "title": "/blob/main/skills/leer-facturas-ubl/SKILL.md",
           "count": 1,
           "uniques": 1
         }
