@@ -3483,7 +3483,7 @@
     },
     {
       "date": "2026-10-10",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -3496,7 +3496,7 @@
     },
     {
       "date": "2026-10-11",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3509,7 +3509,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3522,7 +3522,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3535,7 +3535,7 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3548,7 +3548,7 @@
     },
     {
       "date": "2026-10-15",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3561,7 +3561,7 @@
     },
     {
       "date": "2026-10-16",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3574,7 +3574,7 @@
     },
     {
       "date": "2026-10-17",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3587,7 +3587,7 @@
     },
     {
       "date": "2026-10-18",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -3600,7 +3600,7 @@
     },
     {
       "date": "2026-10-19",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3613,7 +3613,7 @@
     },
     {
       "date": "2026-10-20",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -3626,7 +3626,7 @@
     },
     {
       "date": "2026-10-21",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3639,7 +3639,7 @@
     },
     {
       "date": "2026-10-22",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 5,
@@ -3652,7 +3652,20 @@
     },
     {
       "date": "2026-10-23",
-      "captured_at": "2026-10-24T01:40:55.756362+00:00",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 2,
+      "clones_uniques": 2,
+      "actions_runs": 0,
+      "human_clones_count": 2,
+      "human_clones_uniques": 2,
+      "top_referrers": [],
+      "top_paths": []
+    },
+    {
+      "date": "2026-10-24",
+      "captured_at": "2026-10-25T01:42:33.218631+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
