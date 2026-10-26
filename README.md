@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**37** artículos publicados · **33** plantillas Deneb · **13** repos públicos · **713** commits en 12 meses
+**37** artículos publicados · **33** plantillas Deneb · **19** repos públicos · **783** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -48,23 +48,23 @@ Las 25 plantillas, con su spec listo para copiar, en
 <!-- repos:start -->
 **Visualización avanzada — Deneb / Vega**
 
-- [PowerBI-Deneb](https://github.com/CSalcedoDataBI/PowerBI-Deneb) — Plantillas Deneb listas para copiar en tus informes de Power BI. · ★ 10
+- [PowerBI-Deneb](https://github.com/CSalcedoDataBI/PowerBI-Deneb) — Plantillas Deneb listas para copiar en tus informes de Power BI. · ★ 13
 
 **Microsoft Fabric y agentes de datos**
 
-- [fabric-data-agents](https://github.com/CSalcedoDataBI/fabric-data-agents) — Cómo construir e instruir un Fabric Data Agent, medido y reproducible.
+- [fabric-data-agents](https://github.com/CSalcedoDataBI/fabric-data-agents) — Cómo construir e instruir un Fabric Data Agent, medido y reproducible. · ★ 2
 - [fabric-app-gallery](https://github.com/CSalcedoDataBI/fabric-app-gallery) — Plantillas de Microsoft Fabric Apps listas para ejecutar y adaptar.
 
 **Herramientas y automatización**
 
-- [agentic-board](https://github.com/CSalcedoDataBI/agentic-board) — Coordinador de agentes de código sobre un board real de GitHub Projects.
-- [powerbi-pbip-tools](https://github.com/CSalcedoDataBI/powerbi-pbip-tools) — Automatización de proyectos Power BI en formato PBIP. · ★ 4
+- [agentic-board](https://github.com/CSalcedoDataBI/agentic-board) — Coordinador de agentes de código sobre un board real de GitHub Projects. · ★ 3
+- [powerbi-pbip-tools](https://github.com/CSalcedoDataBI/powerbi-pbip-tools) — Automatización de proyectos Power BI en formato PBIP. · ★ 6
 
 **Datos y retos**
 
-- [SampleDataSets](https://github.com/CSalcedoDataBI/SampleDataSets) — Conjuntos de datos de muestra para pruebas, aprendizaje y demos.
+- [SampleDataSets](https://github.com/CSalcedoDataBI/SampleDataSets) — Conjuntos de datos de muestra para pruebas, aprendizaje y demos. · ★ 4
 - [BI_Challenges](https://github.com/CSalcedoDataBI/BI_Challenges) — Soluciones a retos de la comunidad BI en PySpark, Python y M. · ★ 1
-- [ubl-star](https://github.com/CSalcedoDataBI/ubl-star) — De factura electrónica UBL 2.1 a un modelo dimensional analizable.
+- [ubl-star](https://github.com/CSalcedoDataBI/ubl-star) — De factura electrónica UBL 2.1 a un modelo dimensional analizable. · ★ 2
 
 <!-- repos:end -->
 
@@ -97,11 +97,11 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
-- [powerquery-m-for-agents v0.1.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.1.0) — 6 oct 2026
-- [dax-for-agents v0.8.1](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.8.1) — 5 oct 2026
-- [dax-for-agents v0.8.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.8.0) — 5 oct 2026
-- [agentic-board v0.44.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.44.0) — 30 sep 2026
-- [agentic-board v0.43.0](https://github.com/CSalcedoDataBI/agentic-board/releases/tag/v0.43.0) — 29 sep 2026
+- [powerquery-m-for-agents v0.2.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.2.0) — 26 oct 2026
+- [pandas-for-agents v0.2.0](https://github.com/CSalcedoDataBI/pandas-for-agents/releases/tag/v0.2.0) — 24 oct 2026
+- [polars-for-agents v0.2.0](https://github.com/CSalcedoDataBI/polars-for-agents/releases/tag/v0.2.0) — 24 oct 2026
+- [spark-for-agents v0.2.0](https://github.com/CSalcedoDataBI/spark-for-agents/releases/tag/v0.2.0) — 24 oct 2026
+- [tsql-for-agents v0.1.0](https://github.com/CSalcedoDataBI/tsql-for-agents/releases/tag/v0.1.0) — 24 oct 2026
 <!-- releases:end -->
 
 ## Cómo se mantiene esto
