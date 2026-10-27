@@ -3508,7 +3508,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -3570,7 +3570,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -3632,7 +3632,7 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 3,
@@ -3694,7 +3694,7 @@
     },
     {
       "date": "2026-10-15",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 5,
@@ -3762,7 +3762,7 @@
     },
     {
       "date": "2026-10-16",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3775,7 +3775,7 @@
     },
     {
       "date": "2026-10-17",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3788,7 +3788,7 @@
     },
     {
       "date": "2026-10-18",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 0,
@@ -3801,7 +3801,7 @@
     },
     {
       "date": "2026-10-19",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 4,
@@ -3839,7 +3839,7 @@
     },
     {
       "date": "2026-10-20",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -3877,7 +3877,7 @@
     },
     {
       "date": "2026-10-21",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -3915,7 +3915,7 @@
     },
     {
       "date": "2026-10-22",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 7,
@@ -3941,7 +3941,7 @@
     },
     {
       "date": "2026-10-23",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -3967,7 +3967,7 @@
     },
     {
       "date": "2026-10-24",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 2,
       "views_uniques": 2,
       "clones_count": 72,
@@ -3993,7 +3993,51 @@
     },
     {
       "date": "2026-10-25",
-      "captured_at": "2026-10-26T01:46:25.365383+00:00",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 71,
+      "clones_uniques": 12,
+      "actions_runs": 0,
+      "human_clones_count": 71,
+      "human_clones_uniques": 12,
+      "top_referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/ubl-star",
+          "title": "Overview",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/ubl-star/discussions",
+          "title": "/discussions",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csalcedodatabi/ubl-star/blob/main/plugin/skills/leer-facturas-ubl/references/tablas.md",
+          "title": "/blob/main/plugin/skills/leer-facturas-ubl/references/tablas.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csalcedodatabi/ubl-star/blob/main/skills/leer-facturas-ubl/SKILL.md",
+          "title": "/blob/main/skills/leer-facturas-ubl/SKILL.md",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "captured_at": "2026-10-27T01:47:08.884346+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,

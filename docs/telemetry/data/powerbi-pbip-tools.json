@@ -6002,7 +6002,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -6068,7 +6068,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -6134,7 +6134,7 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -6200,7 +6200,7 @@
     },
     {
       "date": "2026-10-15",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 1,
@@ -6266,7 +6266,7 @@
     },
     {
       "date": "2026-10-16",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -6279,7 +6279,7 @@
     },
     {
       "date": "2026-10-17",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -6292,7 +6292,7 @@
     },
     {
       "date": "2026-10-18",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 1,
@@ -6305,7 +6305,7 @@
     },
     {
       "date": "2026-10-19",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 3,
@@ -6377,7 +6377,7 @@
     },
     {
       "date": "2026-10-20",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 3,
       "views_uniques": 1,
       "clones_count": 4,
@@ -6449,7 +6449,7 @@
     },
     {
       "date": "2026-10-21",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -6527,7 +6527,7 @@
     },
     {
       "date": "2026-10-22",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -6582,7 +6582,7 @@
     },
     {
       "date": "2026-10-23",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -6637,7 +6637,7 @@
     },
     {
       "date": "2026-10-24",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 3,
@@ -6692,14 +6692,14 @@
     },
     {
       "date": "2026-10-25",
-      "captured_at": "2026-10-26T01:46:22.542103+00:00",
-      "views_count": 0,
-      "views_uniques": 0,
-      "clones_count": 0,
-      "clones_uniques": 0,
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
+      "views_count": 5,
+      "views_uniques": 3,
+      "clones_count": 9,
+      "clones_uniques": 7,
       "actions_runs": 0,
-      "human_clones_count": 0,
-      "human_clones_uniques": 0,
+      "human_clones_count": 9,
+      "human_clones_uniques": 7,
       "top_referrers": [
         {
           "referrer": "Bing",
@@ -6734,6 +6734,73 @@
         {
           "path": "/CSalcedoDataBI/powerbi-pbip-tools/issues",
           "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/tree/main/skills",
+          "title": "/tree/main/skills",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "captured_at": "2026-10-27T01:47:06.707416+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 0,
+      "clones_uniques": 0,
+      "actions_runs": 0,
+      "human_clones_count": 0,
+      "human_clones_uniques": 0,
+      "top_referrers": [
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools",
+          "title": "Overview",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/issues",
+          "title": "/issues",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/blob/main/skills/skill-semantic-architect-powerbi/SKILL.en.md",
+          "title": "/blob/main/skills/skill-semantic-architect-powerbi/SKILL.en.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/blob/main/skills/skill-svg-recolor-powerbi/SKILL.en.md",
+          "title": "/blob/main/skills/skill-svg-recolor-powerbi/SKILL.en.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/blob/main/skills/skill-svg-recolor-powerbi/SKILL.md",
+          "title": "/blob/main/skills/skill-svg-recolor-powerbi/SKILL.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/CSalcedoDataBI/powerbi-pbip-tools/pulls",
+          "title": "/pulls",
           "count": 1,
           "uniques": 1
         },

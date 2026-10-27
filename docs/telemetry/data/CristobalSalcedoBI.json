@@ -4874,7 +4874,7 @@
     },
     {
       "date": "2026-10-12",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 22,
@@ -4900,7 +4900,7 @@
     },
     {
       "date": "2026-10-13",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 5,
@@ -4926,7 +4926,7 @@
     },
     {
       "date": "2026-10-14",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 11,
@@ -4946,7 +4946,7 @@
     },
     {
       "date": "2026-10-15",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 23,
@@ -4966,7 +4966,7 @@
     },
     {
       "date": "2026-10-16",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 28,
@@ -4979,7 +4979,7 @@
     },
     {
       "date": "2026-10-17",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 2,
@@ -4992,7 +4992,7 @@
     },
     {
       "date": "2026-10-18",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
@@ -5005,7 +5005,7 @@
     },
     {
       "date": "2026-10-19",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 1,
@@ -5018,7 +5018,7 @@
     },
     {
       "date": "2026-10-20",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 1,
       "views_uniques": 1,
       "clones_count": 8,
@@ -5031,7 +5031,7 @@
     },
     {
       "date": "2026-10-21",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 18,
@@ -5051,7 +5051,7 @@
     },
     {
       "date": "2026-10-22",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -5071,7 +5071,7 @@
     },
     {
       "date": "2026-10-23",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 6,
@@ -5091,7 +5091,7 @@
     },
     {
       "date": "2026-10-24",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 8,
@@ -5111,12 +5111,32 @@
     },
     {
       "date": "2026-10-25",
-      "captured_at": "2026-10-26T01:46:29.519453+00:00",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
+      "views_count": 0,
+      "views_uniques": 0,
+      "clones_count": 5,
+      "clones_uniques": 2,
+      "actions_runs": 2,
+      "human_clones_count": 3,
+      "human_clones_uniques": 2,
+      "top_referrers": [],
+      "top_paths": [
+        {
+          "path": "/CSalcedoDataBI/CSalcedoDataBI",
+          "title": "Overview",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "captured_at": "2026-10-27T01:47:12.494394+00:00",
       "views_count": 0,
       "views_uniques": 0,
       "clones_count": 0,
       "clones_uniques": 0,
-      "actions_runs": 2,
+      "actions_runs": 4,
       "human_clones_count": 0,
       "human_clones_uniques": 0,
       "top_referrers": [],
