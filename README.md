@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**37** artículos publicados · **33** plantillas Deneb · **19** repos públicos · **783** commits en 12 meses
+**41** artículos publicados · **33** plantillas Deneb · **19** repos públicos · **791** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -73,11 +73,11 @@ Las 25 plantillas, con su spec listo para copiar, en
 ### En el blog
 
 <!-- blog:start -->
+- [pandas, Polars, Spark y T-SQL para agentes de IA](https://csalcedodatabi.com/blog/pandas-polars-spark-tsql-for-agents/) — 5 nov 2026
+- [ubl-star: la factura electrónica es el XML, no el PDF](https://csalcedodatabi.com/blog/ubl-star/) — 5 nov 2026
+- [Power Query M para agentes: powerquery-m-for-agents](https://csalcedodatabi.com/blog/powerquery-m-for-agents/) — 5 nov 2026
+- [vega-for-agents: Vega y Vega-Lite sin nombres inventados](https://csalcedodatabi.com/blog/vega-for-agents/) — 5 nov 2026
 - [Formato de fechas en Power BI: grupos de cálculo y Deneb](https://csalcedodatabi.com/blog/formato-fechas-grupos-calculo-deneb/) — 23 sep 2026
-- [Heredar el formato de la medida en Power BI con Deneb](https://csalcedodatabi.com/blog/heredar-formato-medida-deneb/) — 22 sep 2026
-- [Formato de valores en Power BI con Deneb](https://csalcedodatabi.com/blog/formato-valores-power-bi-deneb/) — 7 sep 2026
-- [Deneb para Power BI: guía completa en español](https://csalcedodatabi.com/blog/deneb-power-bi-guia-completa/) — 7 sep 2026
-- [Grupos de cálculo en Power BI: su formato en Deneb](https://csalcedodatabi.com/blog/grupos-calculo-formato-deneb/) — 6 sep 2026
 <!-- blog:end -->
 
 Todo en [csalcedodatabi.com/blog](https://csalcedodatabi.com/blog)
@@ -97,11 +97,11 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
+- [vega-for-agents v0.2.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.2.0) — 4 nov 2026
+- [vega-for-agents v0.1.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.1.0) — 2 nov 2026
 - [powerquery-m-for-agents v0.2.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.2.0) — 26 oct 2026
 - [pandas-for-agents v0.2.0](https://github.com/CSalcedoDataBI/pandas-for-agents/releases/tag/v0.2.0) — 24 oct 2026
 - [polars-for-agents v0.2.0](https://github.com/CSalcedoDataBI/polars-for-agents/releases/tag/v0.2.0) — 24 oct 2026
-- [spark-for-agents v0.2.0](https://github.com/CSalcedoDataBI/spark-for-agents/releases/tag/v0.2.0) — 24 oct 2026
-- [tsql-for-agents v0.1.0](https://github.com/CSalcedoDataBI/tsql-for-agents/releases/tag/v0.1.0) — 24 oct 2026
 <!-- releases:end -->
 
 ## Cómo se mantiene esto
