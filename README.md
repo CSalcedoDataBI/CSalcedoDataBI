@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**41** artículos publicados · **33** plantillas Deneb · **19** repos públicos · **791** commits en 12 meses
+**41** artículos publicados · **37** plantillas Deneb · **19** repos públicos · **807** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -85,11 +85,11 @@ Todo en [csalcedodatabi.com/blog](https://csalcedodatabi.com/blog)
 ### Plantillas nuevas en la galería
 
 <!-- plantillas:start -->
+- [Tendencia IBCS Ano Anterior](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Tendencia_IBCS_Ano_Anterior) — 10 nov 2026
+- [Momentum Medias Moviles](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Momentum_Medias_Moviles) — 10 nov 2026
+- [Mapa Mundial Ventas Pais](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Mapa_Mundial_Ventas_Pais) — 10 nov 2026
+- [Benchmark Ventas Por Pais](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Benchmark_Ventas_Por_Pais) — 10 nov 2026
 - [Herencia Del Formato De Medida](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Herencia_Del_Formato_De_Medida) — 3 sep 2026
-- [Grupos De Calculo Formato](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Grupos_De_Calculo_Formato) — 3 sep 2026
-- [Formato Dinamico Con SWITCH](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Formato_Dinamico_Con_SWITCH) — 3 sep 2026
-- [Campos De Apoyo Format Y Formatted](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Campos_De_Apoyo_Format_Y_Formatted) — 2 sep 2026
-- [Grilla Termometros IBCS](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Grilla_Termometros_IBCS) — 24 ago 2026
 <!-- plantillas:end -->
 
 Todas en [la galería](https://csalcedodatabi.com/deneb)
@@ -97,11 +97,11 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
+- [dax-for-agents v0.9.1](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.9.1) — 14 nov 2026
+- [dax-for-agents v0.9.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.9.0) — 13 nov 2026
 - [vega-for-agents v0.2.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.2.0) — 4 nov 2026
 - [vega-for-agents v0.1.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.1.0) — 2 nov 2026
 - [powerquery-m-for-agents v0.2.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.2.0) — 26 oct 2026
-- [pandas-for-agents v0.2.0](https://github.com/CSalcedoDataBI/pandas-for-agents/releases/tag/v0.2.0) — 24 oct 2026
-- [polars-for-agents v0.2.0](https://github.com/CSalcedoDataBI/polars-for-agents/releases/tag/v0.2.0) — 24 oct 2026
 <!-- releases:end -->
 
 ## Cómo se mantiene esto
