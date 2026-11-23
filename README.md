@@ -18,7 +18,7 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**41** artículos publicados · **37** plantillas Deneb · **19** repos públicos · **807** commits en 12 meses
+**41** artículos publicados · **37** plantillas Deneb · **19** repos públicos · **808** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -97,11 +97,11 @@ Todas en [la galería](https://csalcedodatabi.com/deneb)
 ### Últimas versiones de las herramientas
 
 <!-- releases:start -->
+- [tmdl-for-agents v0.1.0](https://github.com/CSalcedoDataBI/tmdl-for-agents/releases/tag/v0.1.0) — 19 nov 2026
 - [dax-for-agents v0.9.1](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.9.1) — 14 nov 2026
 - [dax-for-agents v0.9.0](https://github.com/CSalcedoDataBI/dax-for-agents/releases/tag/v0.9.0) — 13 nov 2026
 - [vega-for-agents v0.2.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.2.0) — 4 nov 2026
 - [vega-for-agents v0.1.0](https://github.com/CSalcedoDataBI/vega-for-agents/releases/tag/v0.1.0) — 2 nov 2026
-- [powerquery-m-for-agents v0.2.0](https://github.com/CSalcedoDataBI/powerquery-m-for-agents/releases/tag/v0.2.0) — 26 oct 2026
 <!-- releases:end -->
 
 ## Cómo se mantiene esto
