@@ -42,14 +42,16 @@ métrica, y las seis tarjetas se recalculan con su tendencia.
 **Mapa de calor de calendario** — 53 semanas × 7 días a partir de UNA columna de fecha.
 **Ranking bump chart** — cómo se mueve el top 6 mes a mes.
 
-Todas las plantillas, con su spec listo para copiar, en
+Todas las plantillas Deneb, con su código Vega-Lite (JSON) listo para copiar, en
 [csalcedodatabi.com/deneb](https://csalcedodatabi.com/deneb).
+
+### Nuevo: visuales HTML Content
 
 <a href="https://csalcedodatabi.com/recursos/galeria-html/">
   <img src="profile/showcase/embudo-clientes-html.webp" alt="Embudo de clientes hecho con HTML Content en Power BI: cinco etapas con su porcentaje sobre el total y sobre la etapa anterior" width="100%">
 </a>
 
-**Nuevo: galería HTML Content** — una medida DAX que devuelve HTML y CSS, con el PBIP de
+**Embudo de clientes** — hecho con el visual HTML Content: una medida DAX que devuelve HTML y CSS, con el PBIP de
 ejemplo para abrir en Power BI Desktop. En [la galería](https://csalcedodatabi.com/recursos/galeria-html/)
 y en [PowerBI-HTML](https://github.com/CSalcedoDataBI/PowerBI-HTML).
 
