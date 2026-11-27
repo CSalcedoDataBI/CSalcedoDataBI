@@ -14,11 +14,13 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [Sitio](https://csalcedodatabi.com) ·
 [Blog](https://csalcedodatabi.com/blog) ·
 [Galería Deneb](https://csalcedodatabi.com/deneb) ·
+[Galería HTML](https://csalcedodatabi.com/recursos/galeria-html/) ·
+[YouTube](https://www.youtube.com/@CSalcedoDataBI) ·
 [LinkedIn](https://www.linkedin.com/in/cristobal-salcedo) ·
 [contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**41** artículos publicados · **37** plantillas Deneb · **19** repos públicos · **808** commits en 12 meses
+**41** artículos publicados · **37** plantillas Deneb · **20** repos públicos · **6278** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -40,15 +42,44 @@ métrica, y las seis tarjetas se recalculan con su tendencia.
 **Mapa de calor de calendario** — 53 semanas × 7 días a partir de UNA columna de fecha.
 **Ranking bump chart** — cómo se mueve el top 6 mes a mes.
 
-Las 25 plantillas, con su spec listo para copiar, en
+Todas las plantillas, con su spec listo para copiar, en
 [csalcedodatabi.com/deneb](https://csalcedodatabi.com/deneb).
+
+<a href="https://csalcedodatabi.com/recursos/galeria-html/">
+  <img src="profile/showcase/embudo-clientes-html.webp" alt="Embudo de clientes hecho con HTML Content en Power BI: cinco etapas con su porcentaje sobre el total y sobre la etapa anterior" width="100%">
+</a>
+
+**Nuevo: galería HTML Content** — una medida DAX que devuelve HTML y CSS, con el PBIP de
+ejemplo para abrir en Power BI Desktop. En [la galería](https://csalcedodatabi.com/recursos/galeria-html/)
+y en [PowerBI-HTML](https://github.com/CSalcedoDataBI/PowerBI-HTML).
+
+## Referencias para agentes de IA
+
+Cuando un agente escribe DAX, M o un spec de Deneb, inventa nombres de funciones y
+propiedades. Las referencias `*-for-agents` salen del propio motor o de los esquemas
+oficiales, así que el agente consulta lo que existe de verdad. Se instalan como plugins de
+Claude Code; [dax-for-agents](https://github.com/CSalcedoDataBI/dax-for-agents) y
+[ubl-star](https://github.com/CSalcedoDataBI/ubl-star) ya están en el directorio de plugins
+de Anthropic. La lista completa, abajo.
 
 ## Lo que construyo
 
 <!-- repos:start -->
-**Visualización avanzada — Deneb / Vega**
+**Galerías de visuales para Power BI**
 
-- [PowerBI-Deneb](https://github.com/CSalcedoDataBI/PowerBI-Deneb) — Plantillas Deneb listas para copiar en tus informes de Power BI. · ★ 13
+- [PowerBI-Deneb](https://github.com/CSalcedoDataBI/PowerBI-Deneb) — Plantillas Deneb (Vega-Lite) listas para copiar en tus informes. · ★ 13
+- [PowerBI-HTML](https://github.com/CSalcedoDataBI/PowerBI-HTML) — Plantillas HTML Content: medidas DAX que devuelven HTML, con su PBIP de ejemplo.
+
+**Referencias para agentes de IA — plugins de Claude Code**
+
+- [dax-for-agents](https://github.com/CSalcedoDataBI/dax-for-agents) — Cada función DAX con su firma, dónde es válida y las trampas que la doc no cuenta. · ★ 3
+- [powerquery-m-for-agents](https://github.com/CSalcedoDataBI/powerquery-m-for-agents) — Cada función de Power Query M, exportada del propio motor. · ★ 4
+- [vega-for-agents](https://github.com/CSalcedoDataBI/vega-for-agents) — Vega y Vega-Lite desde sus esquemas oficiales: Deneb sin propiedades inventadas.
+- [tmdl-for-agents](https://github.com/CSalcedoDataBI/tmdl-for-agents) — TMDL para escribir modelos semánticos como código (pre-release).
+- [tsql-for-agents](https://github.com/CSalcedoDataBI/tsql-for-agents) — T-SQL probado contra Fabric Warehouse y el SQL endpoint (pre-release).
+- [spark-for-agents](https://github.com/CSalcedoDataBI/spark-for-agents) — PySpark y Spark SQL con disponibilidad en Fabric (pre-release).
+- [pandas-for-agents](https://github.com/CSalcedoDataBI/pandas-for-agents) — pandas por versión, con deprecaciones (pre-release).
+- [polars-for-agents](https://github.com/CSalcedoDataBI/polars-for-agents) — Polars por versión (pre-release).
 
 **Microsoft Fabric y agentes de datos**
 
@@ -58,13 +89,13 @@ Las 25 plantillas, con su spec listo para copiar, en
 **Herramientas y automatización**
 
 - [agentic-board](https://github.com/CSalcedoDataBI/agentic-board) — Coordinador de agentes de código sobre un board real de GitHub Projects. · ★ 3
+- [ubl-star](https://github.com/CSalcedoDataBI/ubl-star) — Factura electrónica UBL 2.1 a esquema estrella para Power BI: CLI y plugin. · ★ 2
 - [powerbi-pbip-tools](https://github.com/CSalcedoDataBI/powerbi-pbip-tools) — Automatización de proyectos Power BI en formato PBIP. · ★ 6
 
 **Datos y retos**
 
 - [SampleDataSets](https://github.com/CSalcedoDataBI/SampleDataSets) — Conjuntos de datos de muestra para pruebas, aprendizaje y demos. · ★ 4
 - [BI_Challenges](https://github.com/CSalcedoDataBI/BI_Challenges) — Soluciones a retos de la comunidad BI en PySpark, Python y M. · ★ 1
-- [ubl-star](https://github.com/CSalcedoDataBI/ubl-star) — De factura electrónica UBL 2.1 a un modelo dimensional analizable. · ★ 2
 
 <!-- repos:end -->
 
