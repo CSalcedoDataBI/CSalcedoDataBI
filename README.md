@@ -62,7 +62,18 @@ propiedades. Las referencias `*-for-agents` salen del propio motor o de los esqu
 oficiales, así que el agente consulta lo que existe de verdad. Se instalan como plugins de
 Claude Code; [dax-for-agents](https://github.com/CSalcedoDataBI/dax-for-agents) y
 [ubl-star](https://github.com/CSalcedoDataBI/ubl-star) ya están en el directorio de plugins
-de Anthropic. La lista completa, abajo.
+de Anthropic.
+
+| Lenguaje | Referencia |
+|---|---|
+| DAX | [dax-for-agents](https://github.com/CSalcedoDataBI/dax-for-agents) |
+| Power Query M | [powerquery-m-for-agents](https://github.com/CSalcedoDataBI/powerquery-m-for-agents) |
+| Vega / Vega-Lite (Deneb) | [vega-for-agents](https://github.com/CSalcedoDataBI/vega-for-agents) |
+| TMDL | [tmdl-for-agents](https://github.com/CSalcedoDataBI/tmdl-for-agents) |
+| Python · pandas | [pandas-for-agents](https://github.com/CSalcedoDataBI/pandas-for-agents) |
+| Python · Polars | [polars-for-agents](https://github.com/CSalcedoDataBI/polars-for-agents) |
+| PySpark y Spark SQL | [spark-for-agents](https://github.com/CSalcedoDataBI/spark-for-agents) |
+| T-SQL (Fabric) | [tsql-for-agents](https://github.com/CSalcedoDataBI/tsql-for-agents) |
 
 ## Lo que construyo
 
