@@ -11,13 +11,13 @@ Ayudo a equipos de datos a convertir modelos de Power BI y Microsoft Fabric en a
 la gente **usa de verdad**: visualizaciones que responden preguntas, plantillas que se
 copian y pegan, y automatización que quita el trabajo manual de en medio.
 
-[Sitio](https://csalcedodatabi.com) ·
-[Blog](https://csalcedodatabi.com/blog) ·
-[Galería Deneb](https://csalcedodatabi.com/deneb) ·
-[Galería HTML](https://csalcedodatabi.com/recursos/galeria-html/) ·
-[YouTube](https://www.youtube.com/@CSalcedoDataBI) ·
-[LinkedIn](https://www.linkedin.com/in/cristobal-salcedo) ·
-[contacto@csalcedodatabi.com](mailto:contacto@csalcedodatabi.com)
+[![Sitio](https://img.shields.io/badge/Sitio-csalcedodatabi.com-1F3A5F?logo=googlechrome&logoColor=white)](https://csalcedodatabi.com)
+[![Blog](https://img.shields.io/badge/Blog-art%C3%ADculos-1F3A5F?logo=rss&logoColor=white)](https://csalcedodatabi.com/blog)
+[![Galería](https://img.shields.io/badge/Galer%C3%ADa-Deneb-1F3A5F?logo=json&logoColor=white)](https://csalcedodatabi.com/deneb)
+[![Galería](https://img.shields.io/badge/Galer%C3%ADa-HTML-1F3A5F?logo=html5&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-html/)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-1F3A5F?logo=youtube&logoColor=white)](https://www.youtube.com/@CSalcedoDataBI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-1F3A5F?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/cristobal-salcedo)
+[![Contacto](https://img.shields.io/badge/Contacto-correo-1F3A5F?logo=gmail&logoColor=white)](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
 **41** artículos publicados · **37** plantillas Deneb · **20** repos públicos · **6278** commits en 12 meses
