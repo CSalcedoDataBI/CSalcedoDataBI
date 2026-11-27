@@ -11,16 +11,15 @@ Ayudo a equipos de datos a convertir modelos de Power BI y Microsoft Fabric en a
 la gente **usa de verdad**: visualizaciones que responden preguntas, plantillas que se
 copian y pegan, y automatización que quita el trabajo manual de en medio.
 
-[![Sitio](https://img.shields.io/badge/Sitio-csalcedodatabi.com-1F3A5F?logo=googlechrome&logoColor=white)](https://csalcedodatabi.com)
-[![Blog](https://img.shields.io/badge/Blog-art%C3%ADculos-1F3A5F?logo=rss&logoColor=white)](https://csalcedodatabi.com/blog)
-[![Galería](https://img.shields.io/badge/Galer%C3%ADa-Deneb-1F3A5F?logo=json&logoColor=white)](https://csalcedodatabi.com/deneb)
-[![Galería](https://img.shields.io/badge/Galer%C3%ADa-HTML-1F3A5F?logo=html5&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-html/)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-1F3A5F?logo=youtube&logoColor=white)](https://www.youtube.com/@CSalcedoDataBI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-1F3A5F?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/cristobal-salcedo)
-[![Contacto](https://img.shields.io/badge/Contacto-correo-1F3A5F?logo=gmail&logoColor=white)](mailto:contacto@csalcedodatabi.com)
+[![Sitio csalcedodatabi.com](https://img.shields.io/badge/Sitio-csalcedodatabi.com-0D9488?style=for-the-badge&labelColor=0B1A17&logo=googlechrome&logoColor=white)](https://csalcedodatabi.com)
+[![Galería Deneb](https://img.shields.io/badge/Galer%C3%ADa-Deneb-0D9488?style=for-the-badge&labelColor=0B1A17&logo=json&logoColor=white)](https://csalcedodatabi.com/deneb)
+[![Galería HTML](https://img.shields.io/badge/Galer%C3%ADa-HTML-0D9488?style=for-the-badge&labelColor=0B1A17&logo=html5&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-html/)
+[![YouTube Canal](https://img.shields.io/badge/YouTube-Canal-0D9488?style=for-the-badge&labelColor=0B1A17&logo=youtube&logoColor=white)](https://www.youtube.com/@CSalcedoDataBI)
+[![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-Perfil-0D9488?style=for-the-badge&labelColor=0B1A17&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/cristobal-salcedo)
+[![Contacto correo](https://img.shields.io/badge/Contacto-correo-0D9488?style=for-the-badge&labelColor=0B1A17&logo=gmail&logoColor=white)](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**41** artículos publicados · **37** plantillas Deneb · **20** repos públicos · **6278** commits en 12 meses
+**41** [artículos en el blog](https://csalcedodatabi.com/blog) · **38** plantillas Deneb · **20** repos públicos · **6282** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -129,11 +128,11 @@ Todo en [csalcedodatabi.com/blog](https://csalcedodatabi.com/blog)
 ### Plantillas nuevas en la galería
 
 <!-- plantillas:start -->
+- [tools](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/tools) — 27 nov 2026
 - [Tendencia IBCS Ano Anterior](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Tendencia_IBCS_Ano_Anterior) — 10 nov 2026
 - [Momentum Medias Moviles](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Momentum_Medias_Moviles) — 10 nov 2026
 - [Mapa Mundial Ventas Pais](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Mapa_Mundial_Ventas_Pais) — 10 nov 2026
 - [Benchmark Ventas Por Pais](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Benchmark_Ventas_Por_Pais) — 10 nov 2026
-- [Herencia Del Formato De Medida](https://github.com/CSalcedoDataBI/PowerBI-Deneb/tree/main/Herencia_Del_Formato_De_Medida) — 3 sep 2026
 <!-- plantillas:end -->
 
 Todas en [la galería](https://csalcedodatabi.com/deneb)

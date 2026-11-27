@@ -303,7 +303,7 @@ def render_actividad(cuenta: dict, posts: list[str], plantillas: list[str]) -> l
     de la pagina, asi que el ojo aterrizaba justo en la peor evidencia.
     """
     partes = [
-        f"**{len(posts)}** artículos publicados",
+        f"**{len(posts)}** [artículos en el blog](https://csalcedodatabi.com/blog)",
         f"**{len(plantillas)}** plantillas Deneb",
         f"**{cuenta['repos']}** repos públicos",
         f"**{cuenta['commits']}** commits en 12 meses",
