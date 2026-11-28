@@ -11,16 +11,18 @@ Ayudo a equipos de datos a convertir modelos de Power BI y Microsoft Fabric en a
 la gente **usa de verdad**: visualizaciones que responden preguntas, plantillas que se
 copian y pegan, y automatización que quita el trabajo manual de en medio.
 
-[![Sitio csalcedodatabi.com](https://img.shields.io/badge/Sitio-csalcedodatabi.com-0D9488?style=for-the-badge&labelColor=0B1A17&logo=googlechrome&logoColor=white)](https://csalcedodatabi.com)
-[![Galería Deneb](https://img.shields.io/badge/Galer%C3%ADa-Deneb-0D9488?style=for-the-badge&labelColor=0B1A17&logo=json&logoColor=white)](https://csalcedodatabi.com/deneb)
-[![Galería HTML](https://img.shields.io/badge/Galer%C3%ADa-HTML-0D9488?style=for-the-badge&labelColor=0B1A17&logo=html5&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-html/)
-[![Galería SVG](https://img.shields.io/badge/Galer%C3%ADa-SVG-0D9488?style=for-the-badge&labelColor=0B1A17&logo=svg&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-svg/)
-[![YouTube Canal](https://img.shields.io/badge/YouTube-Canal-0D9488?style=for-the-badge&labelColor=0B1A17&logo=youtube&logoColor=white)](https://www.youtube.com/@CSalcedoDataBI)
-[![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-Perfil-0D9488?style=for-the-badge&labelColor=0B1A17&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/cristobal-salcedo)
-[![Contacto correo](https://img.shields.io/badge/Contacto-correo-0D9488?style=for-the-badge&labelColor=0B1A17&logo=gmail&logoColor=white)](mailto:contacto@csalcedodatabi.com)
+<p align="center">
+  <a href="https://csalcedodatabi.com"><img src="https://img.shields.io/badge/Sitio-csalcedodatabi.com-0D9488?style=for-the-badge&labelColor=0B1A17&logo=googlechrome&logoColor=white" alt="Sitio csalcedodatabi.com"></a>
+  <a href="https://csalcedodatabi.com/deneb"><img src="https://img.shields.io/badge/Galer%C3%ADa-Deneb-0D9488?style=for-the-badge&labelColor=0B1A17&logo=json&logoColor=white" alt="Galería Deneb"></a>
+  <a href="https://csalcedodatabi.com/recursos/galeria-html/"><img src="https://img.shields.io/badge/Galer%C3%ADa-HTML-0D9488?style=for-the-badge&labelColor=0B1A17&logo=html5&logoColor=white" alt="Galería HTML"></a>
+  <a href="https://csalcedodatabi.com/recursos/galeria-svg/"><img src="https://img.shields.io/badge/Galer%C3%ADa-SVG-0D9488?style=for-the-badge&labelColor=0B1A17&logo=svg&logoColor=white" alt="Galería SVG"></a>
+  <a href="https://www.youtube.com/@CSalcedoDataBI"><img src="https://img.shields.io/badge/YouTube-Canal-0D9488?style=for-the-badge&labelColor=0B1A17&logo=youtube&logoColor=white" alt="YouTube Canal"></a>
+  <a href="https://www.linkedin.com/in/cristobal-salcedo"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0D9488?style=for-the-badge&labelColor=0B1A17&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn Perfil"></a>
+  <a href="mailto:contacto@csalcedodatabi.com"><img src="https://img.shields.io/badge/Contacto-correo-0D9488?style=for-the-badge&labelColor=0B1A17&logo=gmail&logoColor=white" alt="Contacto correo"></a>
+</p>
 
 <!-- actividad:start -->
-**41** [artículos en el blog](https://csalcedodatabi.com/blog) · **38** plantillas Deneb · **21** repos públicos · **6330** commits en 12 meses
+<p align="center"><b>41</b> <a href="https://csalcedodatabi.com/blog">artículos en el blog</a> · <b>38</b> plantillas Deneb · <b>21</b> repos públicos · <b>6330</b> commits en 12 meses</p>
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
