@@ -14,12 +14,13 @@ copian y pegan, y automatización que quita el trabajo manual de en medio.
 [![Sitio csalcedodatabi.com](https://img.shields.io/badge/Sitio-csalcedodatabi.com-0D9488?style=for-the-badge&labelColor=0B1A17&logo=googlechrome&logoColor=white)](https://csalcedodatabi.com)
 [![Galería Deneb](https://img.shields.io/badge/Galer%C3%ADa-Deneb-0D9488?style=for-the-badge&labelColor=0B1A17&logo=json&logoColor=white)](https://csalcedodatabi.com/deneb)
 [![Galería HTML](https://img.shields.io/badge/Galer%C3%ADa-HTML-0D9488?style=for-the-badge&labelColor=0B1A17&logo=html5&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-html/)
+[![Galería SVG](https://img.shields.io/badge/Galer%C3%ADa-SVG-0D9488?style=for-the-badge&labelColor=0B1A17&logo=svg&logoColor=white)](https://csalcedodatabi.com/recursos/galeria-svg/)
 [![YouTube Canal](https://img.shields.io/badge/YouTube-Canal-0D9488?style=for-the-badge&labelColor=0B1A17&logo=youtube&logoColor=white)](https://www.youtube.com/@CSalcedoDataBI)
 [![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-Perfil-0D9488?style=for-the-badge&labelColor=0B1A17&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjgtMiA0IDAgNC44IDIuNiA0LjggNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/cristobal-salcedo)
 [![Contacto correo](https://img.shields.io/badge/Contacto-correo-0D9488?style=for-the-badge&labelColor=0B1A17&logo=gmail&logoColor=white)](mailto:contacto@csalcedodatabi.com)
 
 <!-- actividad:start -->
-**41** [artículos en el blog](https://csalcedodatabi.com/blog) · **38** plantillas Deneb · **20** repos públicos · **6282** commits en 12 meses
+**41** [artículos en el blog](https://csalcedodatabi.com/blog) · **38** plantillas Deneb · **21** repos públicos · **6330** commits en 12 meses
 <!-- actividad:end -->
 
 ## Lo que hago, en imágenes
@@ -54,6 +55,17 @@ Todas las plantillas Deneb, con su código Vega-Lite (JSON) listo para copiar, e
 ejemplo para abrir en Power BI Desktop. En [la galería](https://csalcedodatabi.com/recursos/galeria-html/)
 y en [PowerBI-HTML](https://github.com/CSalcedoDataBI/PowerBI-HTML).
 
+### Nuevo: visuales SVG con DAX
+
+<a href="https://csalcedodatabi.com/recursos/galeria-svg/">
+  <img src="profile/showcase/barras-ranking-svg.webp" alt="Ranking de las 10 subcategorías por ventas dibujado con una medida DAX que devuelve SVG: las tres primeras resaltadas en azul oscuro" width="100%">
+</a>
+
+**Ranking en barras** — una medida DAX que devuelve una imagen SVG, sin visuales
+personalizados. Cuatro visuales (ranking, pendiente anual, pictograma y estrellas) en
+[la galería SVG](https://csalcedodatabi.com/recursos/galeria-svg/) y en
+[PowerBI-SVG](https://github.com/CSalcedoDataBI/PowerBI-SVG).
+
 ## Referencias para agentes de IA
 
 Cuando un agente escribe DAX, M o un spec de Deneb, inventa nombres de funciones y
@@ -81,6 +93,7 @@ de Anthropic.
 
 - [PowerBI-Deneb](https://github.com/CSalcedoDataBI/PowerBI-Deneb) — Plantillas Deneb (Vega-Lite) listas para copiar en tus informes. · ★ 13
 - [PowerBI-HTML](https://github.com/CSalcedoDataBI/PowerBI-HTML) — Plantillas HTML Content: medidas DAX que devuelven HTML, con su PBIP de ejemplo.
+- [PowerBI-SVG](https://github.com/CSalcedoDataBI/PowerBI-SVG) — Visuales SVG con DAX: medidas que dibujan rankings, pendientes y pictogramas.
 
 **Referencias para agentes de IA — plugins de Claude Code**
 

@@ -52,6 +52,8 @@ REPO_GROUPS: list[tuple[str, list[tuple[str, str]]]] = [
             ("PowerBI-Deneb", "Plantillas Deneb (Vega-Lite) listas para copiar en tus informes."),
             ("PowerBI-HTML",
              "Plantillas HTML Content: medidas DAX que devuelven HTML, con su PBIP de ejemplo."),
+            ("PowerBI-SVG",
+             "Visuales SVG con DAX: medidas que dibujan rankings, pendientes y pictogramas."),
         ],
     ),
     (
