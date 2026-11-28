@@ -47,9 +47,31 @@ MAX_RELEASES_POR_REPO = 2  # que la columna no sea el changelog de un solo repo
 # Agrupacion editorial de los repos publicos. El orden manda.
 REPO_GROUPS: list[tuple[str, list[tuple[str, str]]]] = [
     (
-        "Visualización avanzada — Deneb / Vega",
+        "Galerías de visuales para Power BI",
         [
-            ("PowerBI-Deneb", "Plantillas Deneb listas para copiar en tus informes de Power BI."),
+            ("PowerBI-Deneb", "Plantillas Deneb (Vega-Lite) listas para copiar en tus informes."),
+            ("PowerBI-HTML",
+             "Plantillas HTML Content: medidas DAX que devuelven HTML, con su PBIP de ejemplo."),
+            ("PowerBI-SVG",
+             "Visuales SVG con DAX: medidas que dibujan rankings, pendientes y pictogramas."),
+        ],
+    ),
+    (
+        "Referencias para agentes de IA — plugins de Claude Code",
+        [
+            ("dax-for-agents",
+             "Cada función DAX con su firma, dónde es válida y las trampas que la doc no cuenta."),
+            ("powerquery-m-for-agents",
+             "Cada función de Power Query M, exportada del propio motor."),
+            ("vega-for-agents",
+             "Vega y Vega-Lite desde sus esquemas oficiales: Deneb sin propiedades inventadas."),
+            ("tmdl-for-agents",
+             "TMDL para escribir modelos semánticos como código (pre-release)."),
+            ("tsql-for-agents",
+             "T-SQL probado contra Fabric Warehouse y el SQL endpoint (pre-release)."),
+            ("spark-for-agents", "PySpark y Spark SQL con disponibilidad en Fabric (pre-release)."),
+            ("pandas-for-agents", "pandas por versión, con deprecaciones (pre-release)."),
+            ("polars-for-agents", "Polars por versión (pre-release)."),
         ],
     ),
     (
@@ -66,6 +88,8 @@ REPO_GROUPS: list[tuple[str, list[tuple[str, str]]]] = [
         [
             ("agentic-board",
              "Coordinador de agentes de código sobre un board real de GitHub Projects."),
+            ("ubl-star",
+             "Factura electrónica UBL 2.1 a esquema estrella para Power BI: CLI y plugin."),
             ("powerbi-pbip-tools", "Automatización de proyectos Power BI en formato PBIP."),
         ],
     ),
@@ -74,7 +98,6 @@ REPO_GROUPS: list[tuple[str, list[tuple[str, str]]]] = [
         [
             ("SampleDataSets", "Conjuntos de datos de muestra para pruebas, aprendizaje y demos."),
             ("BI_Challenges", "Soluciones a retos de la comunidad BI en PySpark, Python y M."),
-            ("ubl-star", "De factura electrónica UBL 2.1 a un modelo dimensional analizable."),
         ],
     ),
 ]
@@ -282,7 +305,7 @@ def render_actividad(cuenta: dict, posts: list[str], plantillas: list[str]) -> l
     de la pagina, asi que el ojo aterrizaba justo en la peor evidencia.
     """
     partes = [
-        f"**{len(posts)}** artículos publicados",
+        f"**{len(posts)}** [artículos en el blog](https://csalcedodatabi.com/blog)",
         f"**{len(plantillas)}** plantillas Deneb",
         f"**{cuenta['repos']}** repos públicos",
         f"**{cuenta['commits']}** commits en 12 meses",
