@@ -303,14 +303,17 @@ def render_actividad(cuenta: dict, posts: list[str], plantillas: list[str]) -> l
     Se miden las cifras que sostienen el argumento. Fuera seguidores y
     estrellas: eran los dos numeros mas flojos y estaban en el tipo mas grande
     de la pagina, asi que el ojo aterrizaba justo en la peor evidencia.
+
+    Va en HTML, no en markdown, porque se centra bajo las insignias y GitHub
+    no interpreta markdown dentro de <p align="center">.
     """
     partes = [
-        f"**{len(posts)}** [artículos en el blog](https://csalcedodatabi.com/blog)",
-        f"**{len(plantillas)}** plantillas Deneb",
-        f"**{cuenta['repos']}** repos públicos",
-        f"**{cuenta['commits']}** commits en 12 meses",
+        f'<b>{len(posts)}</b> <a href="https://csalcedodatabi.com/blog">artículos en el blog</a>',
+        f"<b>{len(plantillas)}</b> plantillas Deneb",
+        f"<b>{cuenta['repos']}</b> repos públicos",
+        f"<b>{cuenta['commits']}</b> commits en 12 meses",
     ]
-    return [" · ".join(partes)]
+    return ['<p align="center">' + " · ".join(partes) + "</p>"]
 
 
 def render_repos(repos: list[dict]) -> list[str]:
